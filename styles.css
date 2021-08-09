@@ -1,0 +1,41 @@
+.goto {
+  width: 61.16;
+}
+.body {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+.body button {
+  border-width: 5;
+  border-radius: 0.4rem;
+  background-color: rgb(55, 123, 155) !important;
+  color: white;
+  font-weight: bold;
+  border-color: rgb(0, 181, 181);
+}
+::placeholder {
+  color: white;
+  font-weight: bold;
+}
+:-ms-input-placeholder {
+  color: white;
+  font-weight: bold;
+}
+::-ms-input-placeholder {
+  color: white;
+  font-weight: bold;
+}
+
+.body input {
+  border-color: rgb(0, 181, 181);
+  border-width: 5;
+  border-radius: 0.4rem;
+  background-color: rgb(55, 123, 155) !important;
+  color: white;
+}
+.img {
+  border: solid;
+  border-radius: 1rem;
+  border-color: rgb(36, 36, 189);
+  border-width: 6;
+  background-color: rgb(25, 25, 25);
+}
